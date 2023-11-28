@@ -27,7 +27,12 @@ body{
 
 .container-input span{
     color: #fff;
-    font-size: 22px;
+    font-size: 18px;
+}
+
+h2{
+    color: #fff;
+    font-size: 20px;
 }
 
 .slider{
