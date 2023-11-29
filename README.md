@@ -6,3 +6,5 @@ Sugestão de como executar localmente:
 Apenas instalar extensão no Visual Studio Code "Live Server - Ritwick Dey"
 - Clicar com botão direito do mouse no arquivo index.html
 - Escolher opção "Open with Live Server"
+
+A aplicação pode ser acessada através da publicação feita com Github Pages também: https://nicolecarvalh0.github.io/senhastester/
