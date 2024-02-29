@@ -1,6 +1,6 @@
 # Senhas Tester
 
-Olá! Bem-vindo ao repositório da aplicação "Senhas Tester"! Esta é uma aplicação simples para geração e verificação de segurança de senhas, criada com o propósito de ser o site exemplo/`target` durante um minicurso sobre como realizar testes funcionais com o framework de testes automatizados Cypress.
+Olá! Bem-vindo(a) ao repositório da aplicação "Senhas Tester"! Esta é uma aplicação simples para geração e verificação de segurança de senhas, criada com o propósito de ser o site exemplo/`target` durante um minicurso sobre como realizar testes funcionais com o framework de testes automatizados Cypress.
 
 ## Executando Localmente
 
